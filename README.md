@@ -16,3 +16,4 @@ Lista dos problemas presentes nesse repositorio:
 | [Huaauhahhuahau](https://neps.academy/exercise/118)            |  [Código](https://github.com/AnabelCristina/NepsAcademy/blob/main/Problemas/Huaauhahhuahau.cpp) |
 | [Vestibular](https://neps.academy/exercise/160)                |  [Código](https://github.com/AnabelCristina/NepsAcademy/blob/main/Problemas/Vestibular.cpp) |
 | [Quadrado Mágico](https://neps.academy/exercise/236)           |  [Código](https://github.com/AnabelCristina/NepsAcademy/blob/main/Problemas/QuadradoMagico.cpp) |
+| [Expressões](https://neps.academy/exercise/271)                |  [Código](https://github.com/AnabelCristina/NepsAcademy/blob/main/Problemas/Expressoes.cpp) |
