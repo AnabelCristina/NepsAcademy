@@ -17,3 +17,8 @@ Lista dos problemas presentes nesse repositorio:
 | [Vestibular](https://neps.academy/exercise/160)                |  [Código](https://github.com/AnabelCristina/NepsAcademy/blob/main/Problemas/Vestibular.cpp) |
 | [Quadrado Mágico](https://neps.academy/exercise/236)           |  [Código](https://github.com/AnabelCristina/NepsAcademy/blob/main/Problemas/QuadradoMagico.cpp) |
 | [Expressões](https://neps.academy/exercise/271)                |  [Código](https://github.com/AnabelCristina/NepsAcademy/blob/main/Problemas/Expressoes.cpp) |
+| [Lâmpadas](https://neps.academy/exercise/52)                   |  [Código](https://github.com/AnabelCristina/NepsAcademy/blob/main/Problemas/Lampadas.cpp) |
+| [Fliper](https://neps.academy/exercise/87)                     |  [Código](https://github.com/AnabelCristina/NepsAcademy/blob/main/Problemas/Fliper.cpp) |
+| [Fuga com Helicóptero](https://neps.academy/exercise/5)        |  [Código](https://github.com/AnabelCristina/NepsAcademy/blob/main/Problemas/Fuga_com_helicoptero.cpp) |
+| [Desafio do maior número](https://neps.academy/exercise/323)   |  [Código](https://github.com/AnabelCristina/NepsAcademy/blob/main/Problemas/Desafio_do_maior_numero.cpp) |
+| [Soma das Casas](https://neps.academy/exercise/524)            |  [Código](https://github.com/AnabelCristina/NepsAcademy/blob/main/Problemas/Soma_das_Casas.cpp) |
