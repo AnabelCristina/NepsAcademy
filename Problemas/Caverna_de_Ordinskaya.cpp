@@ -23,19 +23,14 @@ int main(){
 	while (N != 0){ //enquanto não passar por todos os valores
 		cin >> num; //recebe a profundidade do mergulho
 
-		//a ideia é que precisamos garantir que o valor atual seja maior
-		//do que o anterior ao mesmo tempo em que é o menor valor
-		//seja lendo no sentido normal da fita ou inverso
-
-
 		if (ant == 0){ //se o anterior for 0 então é o primeiro numero
-			num = num < M-num ? num : M -num;//pegamos o menor numero possível
+			num = num < M-num ? num : M -num;
 		}
 		else //se não for o primeiro numero
 			if (num < ant) // se o numero atual for menor que o anterior
-				num = (M - num) >= ant ? M - num : num; //precisa ser o menor possivel, mas ser maior ou igual ao anterior, lendo nos dois sentidos da fita
+				num = (M - num) >= ant ? M - num : num; 
 			else //se o numero atual for maior
-				num = (M - num) < num && (M - num) >= ant ? M - num : num; //lemos dos dois lados pra encontrar o menor possivel que ainda seja maior que o anterior
+				num = (M - num) < num && (M - num) >= ant ? M - num : num; 
 
 		//depois de todas as analises temos o menor numero possivel maior que o anterior
 		//somamos ao resultado final
