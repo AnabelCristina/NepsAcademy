@@ -18,21 +18,16 @@ int main(){
 	
 	cin >> a >> b >> c >> h >> l; // recebe os valores
 	
-	//para ficar mais facil, decidi trabalhar apenas com A e B
-	//entao eu encontro os dois menores valores da encomenda
-	//e aloco eles em a e b
-	
-	//se A for o maior de todos, coloco C em A
+	//se A for o maior de todos
 	if (a >= b && a >= c){ 
 		a = c;
 	}
-	//se B for o maior de todos, coloco C em B
+	//se B for o maior de todos
 	else if (b >= a && b >= c){
 		b = c;
 	}
 	//caso contrario, C é o maior portanto os dois menores ja
 	//estão em A e B
-	
 	
 	//testo se os menores valores da encomenda passam pela janela
 	if (a <= h && b <= l || a<=l && b<=h){ //
