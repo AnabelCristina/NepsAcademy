@@ -1,7 +1,7 @@
 # NepsAcademy
 
 Solução para os problemas da plataforma [Neps Academy](https://neps.academy/), focada em programação competitiva
-Todos os códigos estão resolvidos em C++, mas tenho planos de apresentar resoluções em outras linguagens.
+Todos os códigos estão resolvidos em C++.
 
 Abaixo segue uma lista dos códigos aqui presentes.
 No começo de cada código há uma breve explicação do que o programa faz e do link para o problema na página do Neps.
